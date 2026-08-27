@@ -6,8 +6,8 @@ role: **Lead Gameplay & Network Programmer** (sole programmer on a
 6-person team: 1 game designer, 2 2D artists, 1 3D artist, 1
 animator/rigger).
 
-▶ Playable build: `[[ add your itch.io link here ]]`
-▶ Gameplay video: `[[ add a short YouTube/Drive demo link here ]]`
+▶ Playable build: `https://hakiren.itch.io/together-in-the-void`
+▶ Gameplay video: `https://youtu.be/e-_nx0deeGo?si=SkLMJ0eftQAm0bF5`
 
 ## About this repo
 
